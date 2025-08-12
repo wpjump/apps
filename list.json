@@ -1,0 +1,37 @@
+[
+  {
+    "appName": "CashFlo",
+    "packageName": "com.purnomosidi.cashflo",
+    "iconUrl": "https://play-lh.googleusercontent.com/uQbJ3FkBCkYDkQBKoXTa4uSnXbzpflymrGTXh2duWD8-cA-KVFxtqceT7S0-ErHa2ok=w240-h480-rw",
+    "shortDescription": "Buku Pencatat Kas, Hutang/Piutang",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.purnomosidi.cashflo"
+  },
+  {
+    "appName": "Recista",
+    "packageName": "com.purnomosidi.recista",
+    "iconUrl": "https://play-lh.googleusercontent.com/eTnDOVKeCPPITqd5Sgrj-31JjadGSSAWp5bCb3W_JNbdbAQAw_jfxXCi6vO1UIebrGaM=w240-h480-rw",
+    "shortDescription": "Recipe Assitant",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.purnomosidi.recista"
+  },
+  {
+    "appName": "WPS Guitar Tuner",
+    "packageName": "com.purnomosidi.guitartuner",
+    "iconUrl": "https://play-lh.googleusercontent.com/b_DxhV3_fOYvMpxqp1ii5W2gJbnVXPct3UFbfW87N6sCT0n46X_FL3jLhGtxv13aeEs3XiV2_v9E19UEiOkU5w=w240-h480-rw",
+    "shortDescription": "Guitar Tuner & Metronome",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.purnomosidi.guitartuner"
+  },
+  {
+    "appName": "TrekVault",
+    "packageName": "com.purnomosidi.trekvault",
+    "iconUrl": "https://play-lh.googleusercontent.com/aAzQlCswG1vSGiVC3Vvc8XDzM_E89K-aDpa-OMxon0HHw06bnD70zqUthE2JsCn4nGo=w240-h480-rw",
+    "shortDescription": "Travel Journal & Map",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.purnomosidi.trekvault"
+  },
+  {
+    "appName": "Juz Amma",
+    "packageName": "com.purnomosidi.juzamma",
+    "iconUrl": "https://play-lh.googleusercontent.com/PkA9D1LXGbLRGDoXQA3L9DRtyfSW7w_qwes4nIZ9wAi2mQzbB6ZUupQVLoj2m_Zo_2rz=w240-h480-rw",
+    "shortDescription": "Suratan Pendek Al Quran",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.purnomosidi.juzamma"
+  }
+]
