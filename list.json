@@ -33,5 +33,12 @@
     "iconUrl": "https://play-lh.googleusercontent.com/PkA9D1LXGbLRGDoXQA3L9DRtyfSW7w_qwes4nIZ9wAi2mQzbB6ZUupQVLoj2m_Zo_2rz=w240-h480-rw",
     "shortDescription": "Suratan Pendek Al Quran",
     "storeUrl": "https://play.google.com/store/apps/details?id=com.purnomosidi.juzamma"
+  },
+  {
+    "appName": "Simudit",
+    "packageName": "com.purnomosidi.simudit",
+    "iconUrl": "https://play-lh.googleusercontent.com/fgkJ6jkI33x0ACu5HX2UKWTaBnkHxuXQq1EAeOGIa5SYKRdPnUnxq_aS3F0-rR3GFeuhRasz0re6NAs-3BxEsd8=w240-h480-rw",
+    "shortDescription": "Aplikasi simulator kredit",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.purnomosidi.simudit"
   }
 ]
