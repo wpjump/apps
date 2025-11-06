@@ -1,5 +1,12 @@
 [
   {
+    "appName": "Kontekstual.ai",
+    "packageName": "com.purnomosidi.kontekstual_ai",
+    "iconUrl": "https://play-lh.googleusercontent.com/hsoEcTmvc11iKHTT39k63PRtiMaJesz0-4Mc8FvRbz9BZSJJ8wi30wtOzkk9kme0QBhcayjqYwPGCdEiJdhY=w240-h480-rw",
+    "shortDescription": "Kamus Istilah & Gen AI Konten",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.purnomosidi.kontekstual_ai"
+  },
+  {
     "appName": "CashFlo",
     "packageName": "com.purnomosidi.cashflo",
     "iconUrl": "https://play-lh.googleusercontent.com/uQbJ3FkBCkYDkQBKoXTa4uSnXbzpflymrGTXh2duWD8-cA-KVFxtqceT7S0-ErHa2ok=w240-h480-rw",
