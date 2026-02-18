@@ -1,5 +1,19 @@
 [
   {
+    "appName": "OmniKeep: Secure Notes & AI",
+    "packageName": "com.purnomosidi.omnikeep",
+    "iconUrl": "https://play-lh.googleusercontent.com/BHuFPJhZg6ASPHHgJkIu8V4WBvXpvrkwd4g8PPff0h6NOdAivftWhGtdyxFCDt44ngOEUAJuMssuKoZsiPhNqw=w240-h480-rw",
+    "shortDescription": "OmniKeep is a note-taking app built with Security and Privacy as the top priority",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.purnomosidi.omnikeep"
+  },
+  {
+    "appName": "LirakLyric: Offline Songbook",
+    "packageName": "com.purnomosidi.liraklyric",
+    "iconUrl": "https://play-lh.googleusercontent.com/VJa5buZCYxkaF-l_YVeCrNuaLKw7oilJtF7GIWEEuelk6SAZGWhAU8ASBNTzj9qDAEMsfssAB94dh65skNlZXw=w240-h480-rw",
+    "shortDescription": "LirakLyric is the ultimate lyric manager and digital songbook",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.purnomosidi.liraklyric"
+  },
+  {
     "appName": "Kontekstual.ai",
     "packageName": "com.purnomosidi.kontekstual_ai",
     "iconUrl": "https://play-lh.googleusercontent.com/hsoEcTmvc11iKHTT39k63PRtiMaJesz0-4Mc8FvRbz9BZSJJ8wi30wtOzkk9kme0QBhcayjqYwPGCdEiJdhY=w240-h480-rw",
