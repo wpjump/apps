@@ -1,4 +1,12 @@
 [
+  
+  {
+    "appName": "Qibla & Prayer Times",
+    "packageName": "com.purnomosidi.arahkiblat",
+    "iconUrl": "https://play-lh.googleusercontent.com/kXV2zsDFbxsfB8HfOrtMSvI87E1W16hd4kdrHC_QziUVOeZawgGKRN8nM9vkVRNGaQ_smaRw-ZJucoByNRTeVA=w240-h480-rw",
+    "shortDescription": "Precision Qibla Direction Compass, Location-Based Prayer Times and more!",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.purnomosidi.arahkiblat"
+  },
   {
     "appName": "OmniKeep: Secure Notes & AI",
     "packageName": "com.purnomosidi.omnikeep",
