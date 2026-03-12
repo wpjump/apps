@@ -1,5 +1,11 @@
 [
-  
+  {
+    "appName": "DayZen: To-Do List & Widget",
+    "packageName": "com.purnomosidi.dayzen",
+    "iconUrl": "https://play-lh.googleusercontent.com/d18DV0w3v8o3wFK6aroouMMlPzQBoQXaLQOrZN5lw_eN76Jc4f5DBYTZ97LR1nWa2EWLJvsUiOD_RrfdnNxhVQ=w240-h480-rw",
+    "shortDescription": "The ultimate offline-first task manager and daily planne",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.purnomosidi.dayzen"
+  },
   {
     "appName": "Qibla & Prayer Times",
     "packageName": "com.purnomosidi.arahkiblat",
