@@ -3,77 +3,77 @@
     "appName": "DayZen: To-Do List & Widget",
     "packageName": "com.purnomosidi.dayzen",
     "iconUrl": "https://play-lh.googleusercontent.com/d18DV0w3v8o3wFK6aroouMMlPzQBoQXaLQOrZN5lw_eN76Jc4f5DBYTZ97LR1nWa2EWLJvsUiOD_RrfdnNxhVQ=w240-h480-rw",
-    "shortDescription": "The ultimate offline-first task manager and daily planne",
+    "shortDescription": "An offline-first task manager and daily planner with widgets, reminders, and smart organization to boost productivity anytime, anywhere.",
     "storeUrl": "https://play.google.com/store/apps/details?id=com.purnomosidi.dayzen"
   },
   {
     "appName": "Qibla & Prayer Times",
     "packageName": "com.purnomosidi.arahkiblat",
     "iconUrl": "https://play-lh.googleusercontent.com/kXV2zsDFbxsfB8HfOrtMSvI87E1W16hd4kdrHC_QziUVOeZawgGKRN8nM9vkVRNGaQ_smaRw-ZJucoByNRTeVA=w240-h480-rw",
-    "shortDescription": "Precision Qibla Direction Compass, Location-Based Prayer Times and more!",
+    "shortDescription": "Accurate Qibla direction compass with location-based prayer times, reminders, and useful Islamic features for daily worship support.",
     "storeUrl": "https://play.google.com/store/apps/details?id=com.purnomosidi.arahkiblat"
   },
   {
     "appName": "OmniKeep: Secure Notes & AI",
     "packageName": "com.purnomosidi.omnikeep",
     "iconUrl": "https://play-lh.googleusercontent.com/BHuFPJhZg6ASPHHgJkIu8V4WBvXpvrkwd4g8PPff0h6NOdAivftWhGtdyxFCDt44ngOEUAJuMssuKoZsiPhNqw=w240-h480-rw",
-    "shortDescription": "OmniKeep is a note-taking app built with Security and Privacy as the top priority",
+    "shortDescription": "A secure and private note-taking app with AI features, encryption, and seamless organization to keep your ideas safe and accessible.",
     "storeUrl": "https://play.google.com/store/apps/details?id=com.purnomosidi.omnikeep"
   },
   {
     "appName": "LirakLyric: Offline Songbook",
     "packageName": "com.purnomosidi.liraklyric",
     "iconUrl": "https://play-lh.googleusercontent.com/VJa5buZCYxkaF-l_YVeCrNuaLKw7oilJtF7GIWEEuelk6SAZGWhAU8ASBNTzj9qDAEMsfssAB94dh65skNlZXw=w240-h480-rw",
-    "shortDescription": "LirakLyric is the ultimate lyric manager and digital songbook",
+    "shortDescription": "An offline lyric manager and digital songbook that helps you organize, search, and access your favorite song lyrics anytime with ease.",
     "storeUrl": "https://play.google.com/store/apps/details?id=com.purnomosidi.liraklyric"
   },
   {
     "appName": "Kontekstual.ai",
     "packageName": "com.purnomosidi.kontekstual_ai",
     "iconUrl": "https://play-lh.googleusercontent.com/hsoEcTmvc11iKHTT39k63PRtiMaJesz0-4Mc8FvRbz9BZSJJ8wi30wtOzkk9kme0QBhcayjqYwPGCdEiJdhY=w240-h480-rw",
-    "shortDescription": "Kamus Istilah & Gen AI Konten",
+    "shortDescription": "An AI-powered glossary and content generator that helps you understand terms and create contextual content quickly and efficiently.",
     "storeUrl": "https://play.google.com/store/apps/details?id=com.purnomosidi.kontekstual_ai"
   },
   {
     "appName": "CashFlo",
     "packageName": "com.purnomosidi.cashflo",
     "iconUrl": "https://play-lh.googleusercontent.com/uQbJ3FkBCkYDkQBKoXTa4uSnXbzpflymrGTXh2duWD8-cA-KVFxtqceT7S0-ErHa2ok=w240-h480-rw",
-    "shortDescription": "Buku Pencatat Kas, Hutang/Piutang",
+    "shortDescription": "A simple cash management app to track income, expenses, debts, and receivables with clear reports for better financial control.",
     "storeUrl": "https://play.google.com/store/apps/details?id=com.purnomosidi.cashflo"
   },
   {
     "appName": "Recista",
     "packageName": "com.purnomosidi.recista",
     "iconUrl": "https://play-lh.googleusercontent.com/eTnDOVKeCPPITqd5Sgrj-31JjadGSSAWp5bCb3W_JNbdbAQAw_jfxXCi6vO1UIebrGaM=w240-h480-rw",
-    "shortDescription": "AI Recipe Assitant",
+    "shortDescription": "An AI-powered recipe assistant that helps you discover, generate, and customize recipes based on your ingredients and preferences.",
     "storeUrl": "https://play.google.com/store/apps/details?id=com.purnomosidi.recista"
   },
   {
     "appName": "WPS Guitar Tuner",
     "packageName": "com.purnomosidi.guitartuner",
     "iconUrl": "https://play-lh.googleusercontent.com/b_DxhV3_fOYvMpxqp1ii5W2gJbnVXPct3UFbfW87N6sCT0n46X_FL3jLhGtxv13aeEs3XiV2_v9E19UEiOkU5w=w240-h480-rw",
-    "shortDescription": "Guitar Tuner & Metronome",
+    "shortDescription": "A precise guitar tuner and metronome app designed for musicians to tune instruments accurately and maintain rhythm during practice.",
     "storeUrl": "https://play.google.com/store/apps/details?id=com.purnomosidi.guitartuner"
   },
   {
     "appName": "TrekVault",
     "packageName": "com.purnomosidi.trekvault",
     "iconUrl": "https://play-lh.googleusercontent.com/aAzQlCswG1vSGiVC3Vvc8XDzM_E89K-aDpa-OMxon0HHw06bnD70zqUthE2JsCn4nGo=w240-h480-rw",
-    "shortDescription": "Travel Journal & Map",
+    "shortDescription": "A travel journal and map tracker that lets you document trips, save memories, and visualize your journeys in an organized way.",
     "storeUrl": "https://play.google.com/store/apps/details?id=com.purnomosidi.trekvault"
   },
   {
     "appName": "Juz Amma",
     "packageName": "com.purnomosidi.juzamma",
     "iconUrl": "https://play-lh.googleusercontent.com/PkA9D1LXGbLRGDoXQA3L9DRtyfSW7w_qwes4nIZ9wAi2mQzbB6ZUupQVLoj2m_Zo_2rz=w240-h480-rw",
-    "shortDescription": "Suratan Pendek Al Quran",
+    "shortDescription": "A collection of short Quran chapters with clear text and easy navigation, designed to support daily recitation and memorization.",
     "storeUrl": "https://play.google.com/store/apps/details?id=com.purnomosidi.juzamma"
   },
   {
     "appName": "Simudit",
     "packageName": "com.purnomosidi.simudit",
     "iconUrl": "https://play-lh.googleusercontent.com/fgkJ6jkI33x0ACu5HX2UKWTaBnkHxuXQq1EAeOGIa5SYKRdPnUnxq_aS3F0-rR3GFeuhRasz0re6NAs-3BxEsd8=w240-h480-rw",
-    "shortDescription": "Aplikasi simulator kredit",
+    "shortDescription": "A credit simulation app that helps you calculate loan installments, interest, and financing plans for smarter financial decisions.",
     "storeUrl": "https://play.google.com/store/apps/details?id=com.purnomosidi.simudit"
   }
 ]
