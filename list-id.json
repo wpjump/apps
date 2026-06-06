@@ -7,10 +7,10 @@
   "show": "list",
   "apps": [
     {
-      "appName": "DayZen: Daftar Tugas & Widget",
+      "appName": "DayZen: Todo List & Widget",
       "packageName": "com.purnomosidi.dayzen",
       "iconUrl": "https://play-lh.googleusercontent.com/d18DV0w3v8o3wFK6aroouMMlPzQBoQXaLQOrZN5lw_eN76Jc4f5DBYTZ97LR1nWa2EWLJvsUiOD_RrfdnNxhVQ=w240-h480-rw",
-      "shortDescription": "Aplikasi pengelola tugas dan perencana harian berbasis offline-first dengan widget, pengingat, dan pengaturan cerdas untuk meningkatkan produktivitas kapan saja, di mana saja.",
+      "shortDescription": "Sering lupa mau ngapain aja?\n\nDayZen adalah aplikasi pengelola tugas harian. Kelola daftar tugas dengan mudah agar produktivitas meningkat. Yuk, mulai rapihin aktivitasmu dari sekarang!",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.purnomosidi.dayzen",
       "rating": "5.0"
     },
@@ -18,15 +18,15 @@
       "appName": "Arah Kiblat & Jadwal Sholat",
       "packageName": "com.purnomosidi.arahkiblat",
       "iconUrl": "https://play-lh.googleusercontent.com/kXV2zsDFbxsfB8HfOrtMSvI87E1W16hd4kdrHC_QziUVOeZawgGKRN8nM9vkVRNGaQ_smaRw-ZJucoByNRTeVA=w240-h480-rw",
-      "shortDescription": "Kompas arah kiblat yang akurat dengan jadwal sholat berbasis lokasi, pengingat, dan fitur Islami yang bermanfaat untuk mendukung ibadah harian.",
+      "shortDescription": "Lagi di tempat baru dan bingung arah kiblat? Sering kelewat waktu sholat karena sibuk?\n\nAplikasi ini membantu kamu cek arah kiblat dan jadwal sholat berbasis lokasi dengan mudah. Yuk, jadikan ibadah harian lebih teratur!",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.purnomosidi.arahkiblat",
       "rating": "5.0"
     },
     {
-      "appName": "OmniKeep: Catatan Aman & AI",
+      "appName": "OmniKeep: Catatan Aman",
       "packageName": "com.purnomosidi.omnikeep",
       "iconUrl": "https://play-lh.googleusercontent.com/BHuFPJhZg6ASPHHgJkIu8V4WBvXpvrkwd4g8PPff0h6NOdAivftWhGtdyxFCDt44ngOEUAJuMssuKoZsiPhNqw=w240-h480-rw",
-      "shortDescription": "Aplikasi pencatat yang aman dan privat dengan fitur AI, enkripsi, dan pengelolaan yang rapi untuk menjaga ide tetap aman dan mudah diakses.",
+      "shortDescription": "Sering lupa password, nomor penting, atau catatan pribadi?\n\nOmniKeep membantu menyimpan password, nomor KTP, vCard, catatan, URL website, dan data penting lainnya dengan proteksi enkripsi. Yuk, simpan data pentingmu dengan lebih aman!",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.purnomosidi.omnikeep",
       "rating": "5.0"
     },
@@ -34,7 +34,7 @@
       "appName": "LirakLyric: Buku Lirik Offline",
       "packageName": "com.purnomosidi.liraklyric",
       "iconUrl": "https://play-lh.googleusercontent.com/VJa5buZCYxkaF-l_YVeCrNuaLKw7oilJtF7GIWEEuelk6SAZGWhAU8ASBNTzj9qDAEMsfssAB94dh65skNlZXw=w240-h480-rw",
-      "shortDescription": "Aplikasi pengelola lirik offline dan buku lagu digital yang membantu Anda menyusun, mencari, dan mengakses lirik lagu favorit kapan saja dengan mudah.",
+      "shortDescription": "Pingin nyanyi tapi ngga hafal lirik? Masih bolak-balik cari di Google pas kuota lagi tipis?\n\nLirakLyric adalah buku lirik lagu offline untuk menyimpan, mencari, dan mengatur lagu favoritmu. Yuk, bikin koleksi lirikmu sendiri!",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.purnomosidi.liraklyric",
       "rating": "5.0"
     },
@@ -42,7 +42,7 @@
       "appName": "Kontekstual.ai",
       "packageName": "com.purnomosidi.kontekstual_ai",
       "iconUrl": "https://play-lh.googleusercontent.com/hsoEcTmvc11iKHTT39k63PRtiMaJesz0-4Mc8FvRbz9BZSJJ8wi30wtOzkk9kme0QBhcayjqYwPGCdEiJdhY=w240-h480-rw",
-      "shortDescription": "Glosarium dan generator konten berbasis AI yang membantu Anda memahami istilah serta membuat konten kontekstual dengan cepat dan efisien.",
+      "shortDescription": "Sering nemu istilah yang bikin bingung? Atau mentok pas mau bikin konten?\n\nKontekstual.ai membantu memahami istilah dan membuat konten kontekstual dengan bantuan AI. Yuk, bikin proses belajar dan ngonten jadi lebih cepat!",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.purnomosidi.kontekstual_ai",
       "rating": "5.0"
     },
@@ -50,7 +50,7 @@
       "appName": "CashFlo",
       "packageName": "com.purnomosidi.cashflo",
       "iconUrl": "https://play-lh.googleusercontent.com/uQbJ3FkBCkYDkQBKoXTa4uSnXbzpflymrGTXh2duWD8-cA-KVFxtqceT7S0-ErHa2ok=w240-h480-rw",
-      "shortDescription": "Aplikasi manajemen kas sederhana untuk mencatat pemasukan, pengeluaran, utang, dan piutang dengan laporan yang jelas agar keuangan lebih terkendali.",
+      "shortDescription": "Uang masuk dan keluar sering ngga jelas ke mana? Utang-piutang juga kadang lupa dicatat?\n\nCashFlo membantu mencatat pemasukan, pengeluaran, utang, dan piutang dengan laporan yang mudah dibaca. Yuk, mulai kontrol keuanganmu dengan lebih rapi!",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.purnomosidi.cashflo",
       "rating": "5.0"
     },
@@ -58,7 +58,7 @@
       "appName": "Recista",
       "packageName": "com.purnomosidi.recista",
       "iconUrl": "https://play-lh.googleusercontent.com/eTnDOVKeCPPITqd5Sgrj-31JjadGSSAWp5bCb3W_JNbdbAQAw_jfxXCi6vO1UIebrGaM=w240-h480-rw",
-      "shortDescription": "Asisten resep berbasis AI yang membantu Anda menemukan, membuat, dan menyesuaikan resep berdasarkan bahan serta preferensi Anda.",
+      "shortDescription": "Bingung mau masak apa dari bahan yang ada di rumah? Mau cari resep tapi kebanyakan pilihan?\n\nRecista membantu menemukan, membuat, dan menyesuaikan resep dengan bantuan AI berdasarkan bahan dan selera kamu. Yuk, bikin masak jadi lebih praktis!",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.purnomosidi.recista",
       "rating": "5.0"
     },
@@ -66,7 +66,7 @@
       "appName": "WPS Guitar Tuner",
       "packageName": "com.purnomosidi.guitartuner",
       "iconUrl": "https://play-lh.googleusercontent.com/b_DxhV3_fOYvMpxqp1ii5W2gJbnVXPct3UFbfW87N6sCT0n46X_FL3jLhGtxv13aeEs3XiV2_v9E19UEiOkU5w=w240-h480-rw",
-      "shortDescription": "Aplikasi penyetem gitar dan metronom yang presisi, dirancang untuk membantu musisi menyetem instrumen secara akurat dan menjaga ritme saat latihan.",
+      "shortDescription": "Gitar sering fals pas mau latihan atau manggung? Latihan ritme juga kadang belum stabil?\n\nWPS Guitar Tuner membantu menyetem gitar dengan presisi dan menyediakan metronom untuk menjaga tempo latihan. Yuk, bikin permainan musikmu makin rapi!",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.purnomosidi.guitartuner",
       "rating": "5.0"
     },
@@ -74,7 +74,7 @@
       "appName": "TrekVault",
       "packageName": "com.purnomosidi.trekvault",
       "iconUrl": "https://play-lh.googleusercontent.com/aAzQlCswG1vSGiVC3Vvc8XDzM_E89K-aDpa-OMxon0HHw06bnD70zqUthE2JsCn4nGo=w240-h480-rw",
-      "shortDescription": "Aplikasi jurnal perjalanan dan pelacak peta yang memungkinkan Anda mendokumentasikan perjalanan, menyimpan kenangan, dan memvisualisasikan rute secara terorganisir.",
+      "shortDescription": "Punya banyak momen perjalanan tapi tercecer di galeri dan susah diingat lagi?\n\nTrekVault membantu mencatat perjalanan, menyimpan kenangan, dan memvisualisasikan rute dalam jurnal yang rapi. Yuk, abadikan setiap perjalananmu dengan lebih bermakna!",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.purnomosidi.trekvault",
       "rating": "5.0"
     },
@@ -82,7 +82,7 @@
       "appName": "Juz Amma",
       "packageName": "com.purnomosidi.juzamma",
       "iconUrl": "https://play-lh.googleusercontent.com/PkA9D1LXGbLRGDoXQA3L9DRtyfSW7w_qwes4nIZ9wAi2mQzbB6ZUupQVLoj2m_Zo_2rz=w240-h480-rw",
-      "shortDescription": "Kumpulan surat-surat pendek Al-Qur’an dengan teks yang jelas dan navigasi mudah, dirancang untuk mendukung tilawah dan hafalan harian.",
+      "shortDescription": "Mau baca atau menghafal surat pendek tapi ingin yang simpel dan mudah dibuka kapan saja?\n\nJuz Amma menyediakan kumpulan surat-surat pendek Al-Qur’an dengan teks yang jelas dan navigasi yang mudah. Yuk, dukung tilawah dan hafalan harianmu!",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.purnomosidi.juzamma",
       "rating": "5.0"
     },
@@ -90,7 +90,7 @@
       "appName": "Simudit",
       "packageName": "com.purnomosidi.simudit",
       "iconUrl": "https://play-lh.googleusercontent.com/fgkJ6jkI33x0ACu5HX2UKWTaBnkHxuXQq1EAeOGIa5SYKRdPnUnxq_aS3F0-rR3GFeuhRasz0re6NAs-3BxEsd8=w240-h480-rw",
-      "shortDescription": "Aplikasi simulasi kredit yang membantu Anda menghitung cicilan pinjaman, bunga, dan rencana pembiayaan untuk keputusan finansial yang lebih cerdas.",
+      "shortDescription": "Mau ambil kredit tapi bingung hitung cicilan, bunga, dan total biayanya?\n\nSimudit membantu membuat simulasi kredit agar kamu bisa memperkirakan cicilan dan rencana pembiayaan dengan lebih jelas. Yuk, ambil keputusan finansial dengan lebih cerdas!",
       "storeUrl": "https://play.google.com/store/apps/details?id=com.purnomosidi.simudit",
       "rating": "5.0"
     }
