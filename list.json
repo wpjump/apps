@@ -1,5 +1,12 @@
 [
   {
+    "appName": "CipherBite: Text Encryption",
+    "packageName": "com.purnomosidi.cipherbite",
+    "iconUrl": "https://play-lh.googleusercontent.com/IAbUGLIeOHGM0K8SYjLasJr1vPaaE9TgL24c0WeXoJo6-pVUMX1DAzDIcrBUvldHEaAsaRJZ3ZYhwrgzyabOY34=w240-h480-rw",
+    "shortDescription": "Never send naked credentials, passwords, or sensitive information via text messages again. CipherBite is a powerful AES-256 text encryptor and secure private vault designed to protect your most confidential data from prying eyes",
+    "storeUrl": "https://play.google.com/store/apps/details?id=com.purnomosidi.cipherbite"
+  },
+  {
     "appName": "WarungKit: Aplikasi Kasir Offline",
     "packageName": "com.purnomosidi.warungkit",
     "iconUrl": "https://play-lh.googleusercontent.com/aMQfAOCy12CcaEeStjpSDtduFb_qAh5ERP-NZ2AIfkdKQYCosNNWopYZ9JzSqq0xD0SC-MtvnACRzDQNmzBUVxE=w240-h480-rw",
