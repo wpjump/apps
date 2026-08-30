@@ -1,5 +1,12 @@
 [
   {
+  "appName": "LiveStack GA",
+  "packageName": "com.purnomosidi.livestack",
+  "iconUrl": "https://play-lh.googleusercontent.com/x1Zg2eOvUlAjZ9L_Ney-1InHCbY2BBFYlCZ_6OCtoMVkg5LIpcmY6TmClTXolYwjSIFox9zeQYihM5MlY5nV_g=w240-h480-rw",
+  "shortDescription": "Stop drowning in GA4 tabs. LiveStack GA is a unified dashboard that securely connects to your Google Analytics account to monitor real-time active users across multiple websites and apps on a single screen.",
+  "storeUrl": "https://play.google.com/store/apps/details?id=com.purnomosidi.livestack"
+},
+  {
     "appName": "CipherBite: Text Encryption",
     "packageName": "com.purnomosidi.cipherbite",
     "iconUrl": "https://play-lh.googleusercontent.com/IAbUGLIeOHGM0K8SYjLasJr1vPaaE9TgL24c0WeXoJo6-pVUMX1DAzDIcrBUvldHEaAsaRJZ3ZYhwrgzyabOY34=w240-h480-rw",
